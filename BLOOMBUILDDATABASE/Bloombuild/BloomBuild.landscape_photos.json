@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "68c4d7909f42169c1709fef4"
+  },
+  "image": "uploads/1757734220_house.png",
+  "description": "yooo",
+  "created_at": {
+    "$date": "2025-09-13T02:31:44.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c4dee29f42169c1709fef8"
+  },
+  "image": "uploads/1757732578_1660744671925.webp",
+  "description": "beautiful",
+  "created_at": {
+    "$date": "2025-09-13T03:02:58.657Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c4e6b69f42169c1709feff"
+  },
+  "image": "uploads/1757734582_Blog-image-Multi-Level-Garden-Design.jpg",
+  "description": "blog image",
+  "created_at": {
+    "$date": "2025-09-13T03:36:22.967Z"
+  }
+}]
